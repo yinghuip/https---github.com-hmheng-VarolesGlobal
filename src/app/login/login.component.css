@@ -1,0 +1,15 @@
+.full-width {
+  width: 100%;
+}
+.box{
+  flex-flow: column;
+  height: 100%;
+}
+
+.center-form{
+  justify-content: center;
+  height: 100%;
+}
+.center-form form{
+  margin-top: 50%;
+}
